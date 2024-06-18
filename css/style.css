@@ -1,0 +1,41 @@
+body{
+    background-color: #24353F;
+
+    
+}
+
+/* input{
+    color: white !important;
+} */
+.head{
+    color: #18A2B8;
+}
+nav{
+    background-color: #24353F;
+}
+.shad{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+.password-toggle-icon {
+    position: absolute;
+    right:0;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    color: black;
+  }
+  .input-group-text {
+background-color: transparent ;
+border: none;
+  }
+#massege{
+    display: none;
+}
+#namenote,
+#emailnote,
+#passnote{
+    display: none;
+}
+/* .sign #exampleFormControlInput2{
+    cursor: pointer !important;
+} */
